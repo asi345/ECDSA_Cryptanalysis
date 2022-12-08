@@ -1,6 +1,6 @@
 # ECDSA(Elliptic Curve Digital Signature Algorithm) Cryptanalysis
 
-My solution to 1st module of Information Security Lab Autumn Semester 2022. This a project with 2
+My solution to 1st module of Information Security Lab Autumn Semester 2022 in ETH Zurich. This a project with 2
 parts :
 
 1. Implementing ECC(Elliptic Curve Cryptography) of ECDSA
